@@ -1,4 +1,6 @@
 langchain
+boto3
+pandas
 pinecone-client
 PyPDF2
 pypdf
