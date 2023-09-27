@@ -1,0 +1,307 @@
+KEY CONTACTS
+Urgent assistance during class sessions:
+ZenDesk/Online support: (844) 654-9872  
+CUIT Service Desk: (212) 854-1919
+Sim Segal, Program Director: ss3866@columbia.edu
+Associate and Deputy Program Directors:
+Bob Kostakopoulos, Deputy Program Director: hsk44@columbia.edu
+Rich Lauria, Associate Program Director: rl2764@columbia.edu
+Dave Romoff, Associate Program Director: djr2132@columbia.edu
+Administration:
+Jay Hirsch, Director of Administration: jh3975@columbia.edu
+Josh Gleich, Associate Director of Administration: jg4173@columbia.edu
+Latasha Daly, Assistant Director of Administration: ld2819@columbia.edu
+Student Advisors:
+Gabby Rosario: gr2691@columbia.edu
+Fatima Mendez: fm2818@columbia.edu
+Rachel Nieves: rn2513@columbia.edu
+
+SUMMARY OF INSTRUCTOR RESPONSIBILITIES
+Develop/update course content
+Recruit their own Associate
+Recruit guest speakers
+Attend all class sessions, conduct all lectures, and lead classroom administration
+Lead preparation of course materials
+Monitor student concerns and inquiries and respond to students in a timely fashion (failing to do this is a leading cause of poor evaluations)
+Conduct office hour student meetings
+Evaluate student work
+Proctor the midterm and final exams (Associates/TAs are also required to assist in proctoring)
+Attend faculty dinner meetings
+Attend Canvas and Zoom trainings
+Archive all course materials
+
+USE OF TITLES
+Part-time faculty – Lecturers and Associates – are only permitted to use the Columbia title associated with their role during the semester, because these appointments end when the semester ends. For example, if you are a Lecturer or Associate appointed for the spring semester, and again appointed for the fall semester, after spring semester ends and before fall semester begins, you are prohibited from using the title of part-time faculty. This applies to all uses of the title, whether used in CU email, non-CU email, social media, bios, etc. On resumes, if the title is used, it must be clarified by time bounding it with the semester(s) that apply to the title. 
+
+SIGNATURE LINES
+All faculty should include signature lines on all communications, in part because this is the very first lesson that we teach our students and we should all emulate this behavior. Here is an example of what should appear at the bottom of both your originated and reply emails:
+Jane Smith
+Lecturer, Spring 2021
+ERM Program, Columbia University
+Phone: 917-555-5555
+Email: js1234@columbia.edu
+
+RECOMMENDATION LETTERS
+We have occasionally received requests for guidance on Lecturers writing recommendation letters for a current or former student; please see the suggested template below.
+To: [Name of Program and School to which student is applying]
+Re: [Name of student]
+I am pleased to recommend [Name of student] for the [Name of Program and School to which student is applying]. 
+[Name of student] attended my [Name of course] course in the Columbia University M.S. in Enterprise Risk Management program and received a grade of [Letter grade] and a class rank of [Numerical ranking by total points; example: “3”] out of [Total number of students; example: “30”].
+[Brief description of course].
+[Brief qualitative description of how student performed in the course; an example: “…adequately handled the qualitative and quantitative elements as well as the business and communication requirements of this course well and was an active participant in group assignments”].
+[Any other comments you can make based on interactions outside the course].
+Please feel free to call on me anytime (my mobile number is [Mobile #]) if you feel I can be of further assistance.
+
+DEVELOP UPDATE COURSE CONTENT
+New Lecturers must familiarize themselves with the existing course material content.
+On an ongoing basis, Lecturers should meet with Lecturers from other sections of the course to discuss suggestions for potential enhancements to course content. When new Lecturers are appointed, they should take the lead in these discussions. If consensus cannot be achieved on what changes to propose, then invite the Program Director into the discussions to help drive consensus. Once a consensus is achieved, any material changes in either syllabus or course content must be reviewed and approved by the Program Director prior to implementation (send to the Director of Administration for the Program Director review).
+Each semester, each Lecturer should modify all graded elements (e.g., assignments, homework, case projects, midterm, final, etc.) to ensure that cheating is effectively prevented. At least 50% of the content must be materially changed. Students will have obtained information about graded elements from prior students and also from current students in other sections; for example, if the Section 1 midterm is on a Tuesday and you teach Section 2 and your midterm is on the following Thursday, students from Section 1 will have already shared what they recall from the midterm with your students. 
+Lecturers are encouraged to review the info session (see link below), to gain an understanding of how their course fits into the overall ERM program:
+https://vimeo.com/451656204/6267c38928
+For courses already develop:
+A platform support specialist will contact you to schedule training on the.  web-based program – Canvas – to manage your course. The Online Support team will provide access to your Canvas site that already contains most of the materials you will need. To supplement all Canvas training sessions, participants will be enrolled in a training session for diving more deeply into targeted topics on their own time. Feel free to invite your Associates.
+Your Canvas course site must be updated and published/visible at least two weeks prior to the date of your first class. Please make sure to delete any files that are no longer in use and rename any retained files appropriately to match the current semester. A member of the ERM administration team will be auditing all course sites.
+If you are teaching an online course with required online class sessions, you will receive a separate email about training times for Zoom.
+We must maintain consistency between multiple sections of the same course. We want a similar student experience between sections, we must teach to the identical learning objectives, and the course PPTs and other materials are generally identical. However, Lecturers are encouraged to add their own experiences, such as adding case studies.
+The following site has information and resources on various aspects of your interactions with the Curriculum & Instruction Team: https://academicaffairs.sps.columbia.edu/ 
+For courses not yet developed:
+A platform support specialist will contact you to schedule training on the web-based program – Canvas – to deliver and manage your course. 
+New Lecturers should submit a ticket to ZenDesk (https://cusps.zendesk.com/hc/en-us) asking them to mirror your course shell. Provide the name of the course lead you will mirror. A member of the ERM administration team will be auditing all course sites. Please make sure to only add files and documents that you will be currently using for the semester.
+Your Canvas course site must be ready and published/visible at least two weeks prior to the date of your first class. Submit a ticket to ZenDesk (https://cusps.zendesk.com/hc/en-us) asking them to mirror your course shell and provide the name of the course lead you will mirror. Please make sure to only add files that you will be using this semester. A member of the ERM administration team will be auditing all course sites.
+If you are teaching an online course with required online class sessions, you will receive a separate email about training times for Zoom.
+The SPS Instructional Design team will contact you to discuss Best Practices and a range of design options available as you translate your syllabus into a developed course. If your course is an online course, the team will work extensively with you to maximize the use of appropriate tools. If your course is an on-campus course, you can still avail yourself of any number of options for blending in online activities that may be helpful, which may allow you to focus more session time on application exercises or to interact with students and /or have students more effectively interact with each other between sessions. The team will give you an overview of the possibilities and provide guidance, suggestions, and demonstrations, as needed.
+The Instructional Design team is also available to help you with the course design itself, such as refining assignments, determining how to measure the achievement of course objectives, etc. In addition, the team has additional resources—depending on the decisions you make about your course design—including media production resources and educational technology assistance. The team will also produce templates that will house course materials, and Phoebe will connect you to training to help you load content and manage your course site when your course begins (this is easier than it sounds…the tools on the site make it much easier to manage your course and student interactions).
+The following site has information and resources on various aspects of your interactions with the Curriculum & Instruction Team: https://academicaffairs.sps.columbia.edu/ 
+Course developers must periodically update the Director of Administration on progress to ensure the intended vision of the new course is achieved and fits into the overall goals of the program.
+
+RECRUIT ASSOCIATE
+Most course sections are eligible to have an Associate to support the Lecturer once enrollment for the course exceeds a certain limit, which varies by type of course. Lecturers are required to recruit their own Associate for the course and must send the CV of the proposed Associate to the Director of Administration; if approved, the Director of Administration will notify HR to process the paperwork and offer letter. Lecturers do not have the authority to hire or terminate Associates; contact the Director of Administration who will direct you to the appropriate authority if any performance issues arise. Prior to the start of the semester, Lecturers must provide the necessary training to prepare the Associate for the course. An Associate is functionally identical to a teaching assistant (TA), but unlike a TA (which is a student taking at least four CU courses in the semester), an Associate is a professional, non-student (they must not be taking any CU courses), with at least a Master’s degree in a related field or an actuarial credential (e.g., FSA). If the Lecturer has special challenges in recruiting their own Associate, contact the Director of Administration for assistance. In some cases, upon request, a TA might be approved in place of an Associate.
+GUIDANCE TO ASSOCIATE (THIS SECTION APPLIES TO TAs AS WELL)
+Lecturers should meet with their Associates in advance of the start of the course to:
+Familiarize them with the course content.
+Provide them with the guidance on their responsibilities (as detailed below).
+Lecturers should prep the Associate in advance of each session, as needed.
+Lecturers should meet randomly and informally with students throughout the semester to proactively identify any potential issues they may be experiencing with the Associate.
+Lecturers should guide Associates on how/when to post Canvas Announcement; there is a tendency to send too many of these or to send unclear communications.
+The Associate’s main responsibilities include:
+Attending all class sessions and assisting with course instruction;
+Monitoring of student concerns and responding to inquiries in a timely fashion (failing to do this is a leading cause of poor evaluations);
+Evaluating student work as requested by the Lecturer; and
+Proctoring the midterm and final exams.
+Associates are not co-Lecturers and they do not conduct lectures. In an emergency where the Lecturer cannot be present for the lecture, the Associate may substitute for the Lecturer only if the following conditions are met:
+The Associate must be qualified to lecture on that session’s content
+Approval must be obtained; contact the Director of Administration
+Associates must limit their participation to their own section, because doing otherwise is a violation of federal privacy regulations.
+Associates should become familiar with the classroom technology prior to the start of the first class.
+Associates are required to complete the Canvas training webinar on tools needed to effectively manage the course, logging in to the following site using their Columbia UNI and password:
+https://www.youtube.com/watch?v=2Mda8ueGNOY
+Associates for online courses are required to complete the following training course (Associates for on-campus courses are also encouraged to take this):
+Step 1: Online Support will send an email with login instructions to all first-time Associates notifying after completion of all hiring paperwork. Associates will need to complete this training course before their first semester. Associates who do not receive an automated course invitation email or who have other questions should submit a ticket at cusps.zendesk.com 
+Step 2: Go to: https://courseworks2.columbia.edu/courses/101035 (only accessible to users after enrolled)
+Associates should notify students of the grades for their graded elements in a timely fashion. Associates should generally complete grading of most graded elements within one week; more complex elements, such as midterm exams and cases, should be completed within two weeks; final exams must be graded in time for: student review/appeal; review/approval of final course grades by Program Director Sim Segal; and Lecturer submission of grades into SSOL by the SPS deadline.
+Associates should prohibit students photographing, or leaving the room with, key graded elements, with or without accompanying solutions, particularly the midterm and final exams. When administering an exam, a careful advance count of the exams should be conducted, and only a single copy should be personally handed to each student, to avoid students taking an extra copy. Graded elements should be handed, reviewed, and re-collected, during a class session, only after all phones and laptops and other electronic devices have been put completely away. Similar precautions should be taken for similar reviews during office hours.
+Associates should never share electronic versions of solution sets with students; rather, Associates should mark-up graded elements, writing out the correct solution adjacent to any incorrect answers. The only exception to this is for online courses, and only when solution sets are copy-protected and download-protected.
+Associates should take attendance at each session, by circulating a sign-in sheet at the start of class. Unexcused absences should be noted. Any continuing pattern should be immediately reported to the Lecturer and to the Student Advisor, because such patterns may be a leading indicator of a larger emerging concern.
+Associates are encouraged to schedule regular office hours for students, but this is not required.
+Associates should notify the Lecturer of students needing help, academically or otherwise. The Associate should reach out to offer assistance during office hours and the Lecturer should consider getting involved to provide extra assistance as well. In addition, the Associate should make the student aware of the tutoring available through SPS. If a student needs assistance in specific content areas such as writing, research methods, math, finance, programming, Excel or English Language, then the Associate should consider recommending the SPS Tutoring Program, which provides academic support either 1-on-1 or in small group sessions. Students can schedule an appointment with a tutor here: https://sps.columbia.edu/students/student-support/sps-tutoring-program. If students have any questions about tutoring, they can contact sps-tutoring@columbia.edu. 
+Associates should protect CU materials by sharing only PDF forms of key course materials.
+Associates should regularly monitor students using laptops to check that they are using it only for items related to the session (as opposed to internet surfing).
+For online sections, Associates should notify any student with their camera off that they must turn their camera on or within 10 minutes after receiving no response the Associate should force-exit the student from the session (there is a button to press within their Zoom box). Lecturers should make occasional exceptions for students who request a “camera off” session in advance, for reasons such as health issues.
+Associates for online sections should remind the Lecturer to pause Zoom recording during breakout sessions and to stop recording at the end of the class to avoid recording any private side conversations between faculty or with individual students.
+For Zoom-recorded classes, where the auto-record option is on (it generally is on), to avoid extra recordings (potentially lengthy) that precede the lecture, the Associate should be careful to avoid selecting the “join before host” option.
+The Associate should also be aware of a potentially-confusing feature in Canvas: The “Hide Grades” function does not hide grades until they are entered; instead, it actually hides grades after they are entered. To hide grades before they are entered, please have the Associate set the Grade Posting Policy to “Manual”: https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-an-assignment-in-the/ta-p/574
+
+OFFICE HOURS
+Lecturers are required to offer at least two hours of regularly-scheduled office hours each week; please reference the SPS policy on office hours: https://academicaffairsupdates.com/2020/02/14/sps-office-hours-policy/.  (Associates are not required to hold office hours, but are encouraged to do so.) 
+The following are the recommended options, listed in order of preference, for holding weekly office hours for Lecturers (not Associates) of on-campus courses:
+Weekly reservation for on‐campus room: Submit a ZenDesk (cusps.zendesk.com) request for a room (possibly in Lewisohn) for a set time that can be used weekly.
+One‐off reservation for on‐campus room: Email the Assistant Director of Administration and to find you a room in Lewisohn (we are unable to secure rooms anywhere else). There are also seven conference rooms available for faculty use in Lewisohn Hall between the hours of 5 PM and 10 PM. These rooms are located in the 303 Suite and 504 Suite and are meant to provide a private, collaborative meeting space for small groups ‐ from 3 to 10 people.
+Online: When a face‐to‐face meeting is not needed, use the Zoom app to schedule and meet with students. The basic account allows lecturers to host one‐on‐one meetings (or group meetings of 3 or more participants for up to 40 minutes). Note that Lecturers can use the conferencing tool (https://cusps.zendesk.com/hc/en-us/articles/115001118214-Conferences-in-Canvas-Moderator-Guide) available in Canvas, as well. If interested, please reach out to ZenDesk and request a Zoom "Basic" account for office hours.
+
+CANVAS AND ZOOM TRAINING
+Both Canvas and Zoom are critical applications for course management. Lecturers must either attend a live training session or view a recorded training webinar, for each of these applications. Please submit a ZenDesk request (cusp.zendesk.com) with the subject “Training Request” to schedule a live training session or to receive a link to a recorded training webinar.
+
+GUEST SPEAKERS
+Lecturers are encouraged to bring in one or two guest speakers during the Fall and Spring semesters and one guest speaker for Summer semester, because students appreciate hearing alternate and market perspectives and they also welcome an opportunity to make another industry contact. Guest speakers typically present for 20 minutes followed by 10 minutes of Q&A. Guest speakers must be pre-approved; please email the Assistant Director of Administration (Latasha Daly) with your recommendations (before reaching out to speakers). Send the proposed speaker’s name, organization, title, and the topic of the presentation. This policy allows ERM Leadership to confirm that the individual’s experience, credentials, and contribution (a) is appropriate for CU, SPS, and the ERM program; (b) is suitable for the course; and (c) is relevant to the selected topic on which they will speak. 
+We have a strong preference for guest speakers that are from an organization at which our students would be likely to seek/find employment and that not the Lecturer’s employer to (a) provide diverse perspectives; and (b) build the students’ network to assist placement.
+Some courses are not as appropriate for guest speakers, such as: Strategic Communications for Risk Professionals; Intro to Finance, Introduction to Quantitative Risk Management; Managing Human Behavior in the Organization; Coding for Risk Management; Machine Learning for Risk Management; ERM Modeling; FRM Practices (which already has multiple guests); Tools for Risk Management; Risk Regulations in Finance; Market Risk Management; Credit Risk Analytics; and the Capstone. Online courses are not as amenable to guest speakers and online Lecturers may opt out for their courses.
+
+SYLLABUS
+You should post your syllabus on Canvas at least two weeks prior to the first day of classes to make students aware of two time-sensitive items:
+Required readings (they may want to obtain in advance)
+Schedules dates of sessions (students must be aware of these and identify any potential conflicts and notify the Lecturer)
+i.	See Exhibit A for this semester’s schedule of sessions for your section, which depends on the day of the week
+ii.	See the SPS academic calendar (https://www.registrar.columbia.edu/event/academic-calendar) for start dates, end dates, and holidays (although these have already been factored into your schedule in Exhibit A).
+iii.	In fall semesters, the academic calendar is structured in such a way that course sections on certain days of the week are not able to fit in a 14th session; these Lecturers must shift their course content to accommodate this restriction and cover all critical material within 13 sessions. The summer semesters allow only 12 sessions, and Lecturers must similarly accommodate this schedule.
+Although there is a Syllabus section in Canvas, Lecturers should also post the syllabus in PDF form on Canvas. The syllabi must be in the exact approved format, which is regularly updated by SPS.
+The evaluation/grading weights in the syllabus should not be changed once the semester begins, except under unusual circumstances (such as a flawed graded element that must be discounted). As an example, “extra credit” is not permitted, because (a) it is an unscheduled change to the evaluation/grading weights that is not specified in the initial syllabus; (b) it produces student points/grades in Canvas that are higher than those that will be ultimately permitted during the grading review process, and therefore is misleading to students; and (c) it is unproductive, because it would have to be offered to all students, it ends up merely adding extra work for all students, and tends not to change the class ranking anyway.
+It is critical to verify that the weighting of graded elements programming into your Canvas site matches the official weights in the Evaluation/Grading section of your syllabus, because otherwise students may be given a false impression of their final grade along the way. Please check this before your first session and make any needed adjustments.
+
+WAITLISTS
+If the cap is reached for a course section in either the fall or spring semesters, additional students attempting to register will be placed into a waitlist in SSOL (https://ssol.columbia.edu/). Although SSOL provides a tool to do so, faculty must not promote any students off the waitlist and into the course. The waitlists are automatically managed within SSOL. Although students often appeal to Lecturers to get them in, and while we understand your desire to help students, advocating for a student to jump ahead of their position on the waitlist is unfair. Any student so approaching a Lecturer should be re‐directed back to the Student Advisor. You may also receive multiple automated system messages telling you that you have students waiting to get in; these may be disregarded, because we are managing these at the program level.
+Unregistered students are not permitted to attend the class, regardless of whether the class is on campus or online, and these students must exit the classroom or online session.
+Lecturers should not request to increase their class size cap to accommodate a group of waitlisted students. We actively monitor these situations and will make adjustments when needed and feasible, but there are various factors affecting this that add complexities. For example, classroom space is scarce and the cap corresponds to a specific classroom, and any material change to the cap makes a class homeless unless/until a replacement classroom can be located, which isn’t always possible, and this gets more challenging each semester with growth at CU/SPS. Another example is that most of the waitlisted students you see are duplicate registrations, where the students are already registered for another section of that class, but are still trying to get their favorite section before drop/add ends. Finally, caps are set in consideration of many factors, such as course type, modality, etc., to maximize the student experience for that particular course; we would not want to allow additional students into a class simply because there is extra room in the classroom or the section is online (online courses should be kept no larger than 50).
+
+CLASSROOMS
+For Course Sessions: Classrooms for course sessions are typically assigned just 1-3 days prior to the start of the semester. While students and faculty would like to have this information earlier, this is not something that we can accelerate. The Registrar must wait to get the most accurate class size based on course registrations and then allocates classrooms across all schools in the university. Classroom assignments will be passed along as soon as we receive confirmation from the Registrar, so please do not send emails asking when this will be available. When the classrooms are assigned, you will find this in the Directory of Classes (DOC) (http://www.columbia.edu/cu/bulletin/uwb/). 
+For Final Exams: Classrooms for final exams are assigned by the Registrar late in the semester. You will receive an email from Instructional Support asking if you need a room for a final exam, and you also tell them ideally when you want it. But the assignment of specific rooms takes longer than most expect this, and while students and faculty would like to have this information well in advance, this is not something that we can accelerate; this will be passed along as soon as we receive confirmation from the Registrar, so please do not send emails asking when this will be available.
+Typically, a three-hour window of availability is assigned by the Registrar for a final exam classroom. For example, if your course is 6:10-8:00pm on a Thursday, you may be informed that you have the classroom from 6-9pm; in such cases, you may only administer your final exam during the normal time slot of your class sessions (in this case, 6:10-8:00pm), because doing otherwise may create a timing conflict where a student has two overlapping final exams. In some cases, the date and time of the final exam will not encompass the typical weekday and time slot of your course.
+
+DROP ADD
+Please allow students to make up any exercises missed during drop/add period, despite lateness, when circumstances warrant; often, the situation is somewhat beyond a student’s control (e.g., due to inability to move from a waitlist to registration and shifting sections, etc.)
+Despite being informed about this, students often seem to be unaware of the following, and Lecturers should clarify this with students via in-class and Canvas announcements as the deadline for drop/add approaches:
+Students must pay full tuition if they drop a course after the drop/add deadline; no exceptions.
+This applies even when students drop one section of a course and register for another section of the same course.
+The drop/add deadline is typically labeled as “Last day to add or drop a class without penalty” in the SPS Academic Calendar (http://sps.columbia.edu/calendars/academic-calendar/spring-2018)
+
+AUDITING
+Only registered students and approved auditing students are permitted to attend classes, regardless of modality (on-campus or online). Lecturers are not authorized to grant auditor status; this is done at the SPS level. Lecturers encountering any unregistered students attending class are required to ask them to leave immediately; if they continue to return, please report them to the program. There are Zoom features that can be enabled to help keep out unregistered students.
+
+ACADEMIC INTEGRITY
+Lecturers should discuss the importance of academic integrity in Session 1, including the fact that violations are very serious and may lead to disciplinary action up to and including expulsion.
+Lecturers observing cheating must follow the following protocol:
+Notify the Director of Administration of the circumstances; do not include the name of the student(s)
+Report cases of cheating using the link below; you can upload any existing evidence with your report submission: https://cm.maxient.com/reportingform.php?ColumbiaUniv&layout_id=4
+You may also contact the Conduct Office for guidance, before submitting your report. Here is the contact information: Phone: 212-854-6872; email: studentconduct.columbia.edu
+After you submit the report, the Office of Student Conduct will contact you to discuss additional details (usually within 72 business hours). They will also coordinate a hearing.
+Notify the student that based on your observations you've reported the matter to the Office of Student conduct for investigation. 
+Technological advancements provide challenges to maintaining student integrity and mitigating cheating opportunities and Lecturers must be vigilant, proactive, and creative in their efforts to both prevent and detect student fraud. For example, a recent article described how students at a top Thai medical school cheated using eyeglasses with cameras embedded in the frames to send test information to others outside the classroom who then sent answers to their smart watches.
+Key testing elements – such as midterm and final exams – should be conducted in an environment that takes extra precautions to minimize cheating opportunities. In addition, Lecturers should compare the performance on these elements to that of the other student work to identify any divergent patterns that may indicate cheating. One solution is to prohibit the use of laptops, calculators, and phones on key testing elements. This is feasible even for courses with a high level of quantitative content, because the concepts can be tested on a simpler scale of complexity.
+It is paramount that all Lecturers protect academic integrity, and part of this is preventing students from sharing exam questions. Exam questions should never be published on Canvas – with or without the answers – and in the event of an error in this regard, Lecturers must correct this immediately, because these questions can then easily be shared with students in future semesters.
+Please review your past and current Canvas sites now and remove anything such violations.
+For online sections, Proctorio is required for conducting exams or any other graded element online and you must: (a) use the recording setting and include instructions in Question 1 for students to slowly turn their laptop cameras around 360 degrees to show nobody else is present; and (b) use the screen lockdown setting. There are no exceptions to these requirements.
+For on-campus sections, testing should be conducted either by paper exams or Proctorio. If Proctorio is used, you must: (a) use the recording setting and include instructions in Question 1 for students to slowly turn their laptop cameras around 360 degrees to show nobody else is present; and (b) use the screen lockdown setting; there are no exceptions to these requirements.
+Classrooms are often tightly-spaced, placing students in close proximity to each other during exams, increasing cheating opportunities. Lecturers should create multiple (at least two) versions of key graded elements such as midterm and final exams. Lecturers should announce at the beginning of exam that this is the case, to further dissuade student motivation to cheat off of adjacent students’ papers. The alternative versions should have the order of the questions shuffled (and for questions with multiple choice, the choices should also be shuffled) and should also have one or two questions slightly altered (such as changing the numbers of quantitative questions).
+To prevent cheating on the attendance where one student signs in an absent student as being in attendance (this actually occurs regularly), Lecturers should require that the seat students select for Sessions 3 and later be their permanent seat, and your Associate should create a seating chart and use this to check the sign-in sheet during class to catch such situations.
+
+MAKE-UP OF CANCELLED SESSIONS
+The following options are available to Lecturers needing to make up classes cancelled due to weather or other unforeseen events:
+Zoom: Since there is a 40‐minute time limitation with Zoom Basic, to remake a full session, you would need to schedule two back-to-back Zoom meetings with a break in‐between. The Zoom training at the link below will introduce you to all features of the Zoom basic account: https://drive.google.com/file/d/1OgXN-HT-F4TNNLTmZ38dw42reDpulsxY/view?pli=1
+Big Blue Button: Also note that you have the option to use the "Conferences" tool (Big Blue Button) available within Canvas for make-up classes. This is another virtual meeting option but has no time limitations. Instructions on Conferences: https://cusps.zendesk.com/hc/en-us/articles/115001118214-Conferences-in-Canvas-Moderator-Guide
+Contact ZenDesk to locate a classroom for an on-campus make-up session.
+The following options are available to Lecturers that are unable to attend a session’s lecture:
+If Lecturer illness precludes their ability to travel to their on-campus course but they are well enough to conduct the lecture from home, then Zoom is an option (see above), either with all students connecting remotely or in the classroom with the Associate facilitating.
+If an Associate is qualified to teach the section, the Lecturer should reach out to the Director of Administration (Jay Hirsch) in advance of the substitution to submit a request to ERM Leadership for review/approval.
+If the Associate is not qualified to teach the section, the Lecturer should notify the Director of Administration, who will attempt to find a substitute from one of the other sections’ Lecturers or Associates.
+In the event that a Lecturer for an on-campus section is unable to be present on campus for one session, and if the Lecturer will be within the United States during that session, then the Lecturer can request to conduct the session remotely; for such requests, please contact Jay Hirsch.
+
+MAKE-UP EXAMS
+Occasionally, students have legitimate and unavoidable scheduling conflicts and request make-up exams. Lecturers should use their discretion in allowing this under certain valid and credible circumstances (for example, a student notifying the Lecturer in advance that they must travel for a job interview would be a valid circumstance; in contrast, a student wanting to go on a family vacation or stating “I have already booked my ticket out of the country and will not be here for the final exam” would not be a valid circumstance).
+Each semester, a few students request an alternative time for the final exam, claiming they already errantly booked travel back to their home country; this is not an acceptable excuse and must be flatly denied (students are made aware of the timing of the semester, including the final exam period, and must honor their commitment to complete the course requirements.
+If a make-up exam is allowed, it must be given after the initially-scheduled exam, no exceptions. The Lecturer may choose to create an entirely new exam for the student, or, if circumstances warrant trusting the student not to solicit information on the exam from other students in the interim, the same exam can be used. Ideally, it should be administered immediately following the initially-scheduled exam. If the student is available at the time of the class exam but out of town, the tool “Proctorio” may be used to remotely administer the exam at the same time as the exam for the class. This is an expensive option, but may be suitable; contact the Director of Administration to discuss this option. Exam content must be prepared 2 to 3 business days before the date of the exam in order to give the Curriculum and Instruction team ample time to prepare the exam and Proctorio settings in Canvas.
+
+TEAM EXERCISES
+Lecturers are encouraged to have students work in teams for one or more graded course elements (such as in-class exercises or a case), as appropriate. Such exercises teach teamwork and allow cross-pollination of ideas between students as well as help prepare them for the realities and challenges of collaboration in the workplace. For any team exercises, Lecturers should employ peer evaluations to allow students to recognize fellow team members that have exceeded, or fallen short of, the expected contribution. When disclosing peer evaluations, Lecturers should do so in a way that protects the anonymity of the student providing the peer grade, such as blending the peer grade across multiple team members and Lecturers should provide peer grades only at the end of the semester, to afford the opportunity to further blend across multiple team exercises.
+Students should be allowed to form their own teams, based on the size parameters provided by Lecturer (e.g., Lecturer tells class “each case team should have six students”). We have explored various alternatives to this and experience suggests that this approach is optimal. The only exceptions to this are:
+a)	Lecturers for online courses
+b)	Lecturers for the Managing Human Behavior in the Organization course
+Lecturers should select the companies that case teams use for their case assignment, avoiding companies (a) being used in other sections this semester or (b) recently used in prior semesters, because this will help ensure academic integrity. (We will no longer allow students to select the companies for their case work.)
+81)	In the first session of any course that includes teamwork, Lecturers must do the following to ensure inclusive access:
+a)	In your first session, inform students that all group team work must be performed in a language that is common to all group team members and using communication tools that are equally accessible to all team members.
+b)	Create a Canvas Discussion entitled “Contract of Inclusion” and require each student to type the following as their entry into the Discussion:
+“For group work assignments, I will include all members of my team equally by communicating only in a language that is common to all group members and using only communication tools that are accessible to all group members. I understand that violation of this agreement may result in the loss of 100% of my participation points.”
+c)	For any students failing to sign this contract of inclusion, please notify them of their loss of 100% of participation points.
+
+ERM FACULTY MEETING
+Lecturers are expected to attend the ERM faculty meetings, which are held once in fall and in spring. This is a mandatory meeting during which each faculty member shares challenges and/or best practices which are discussed/addressed in a group setting. Lecturers unable to attend must attend a conference call that will be scheduled soon after the event, to (a) share their own challenges and/or best practices; and (b) discuss the feedback received from the group during the event.
+
+ARCHIVAL OF COURSE MATERIALS
+A course materials repository will be created for your course section in Google Drive; the link for your own specific folder will be sent to you sometime during the semester. Once you receive the Google Drive link, please start to upload your materials. The Google Drive link will contain a folder for your course with 17 sub-folders: one for each course session (up to 14), plus one each for the syllabus, midterm exam, and final exam. Upload only editable versions (e.g., Excel spreadsheets, PPTs and Word documents…no PDFs) of all relevant course materials into each of these folders. 
+
+EVENTS
+Lecturers may be invited to periodic events each semester, such as: incoming student orientation and reception; start and end of semester student gathering; and career week including career fair. Lecturers are encouraged to attend all events and in particular are strongly encouraged to attend the Fall student orientation to welcome the large annual incoming cohort.
+
+CLASSROOM TECHNOLOGY
+You should be familiar with the specific technology in the classroom prior to your first day of class; the Associate may be used to scout the location. Classrooms are not assigned until just days prior to the start of classes, so you will not have a large window of time to do this. Most classroom are similar and the guidance below will be relevant:
+In advance of each class session:
+At least one day prior to each session, you should post your lecture slides in PDF form in a two-slide-per-page format.
+Post your PPT version of the lecture slides, and any other course presentation materials, in a way that only you can see it (“Unpublished” setting in Canvas).
+Just prior to each class session:
+A panel controls the technology; touching it activates it and you will see how to turn on the projector. It takes a minute or two to warm up.
+Turn on the classroom computer – both the system and the monitor – and log into your Canvas account.
+Download your PPT version of the lecture slides, and any other course presentation materials, to the Desktop and launch it for presentation. You may also want to use a clicker to advance your slides, which you can either plug into the system unit or sometimes directly to the monitor.
+Log off of your Canvas account; not doing so can expose you to student privacy violations, if your account remains open and active and is accessed by others.
+At end of each class session:
+If there is no class following yours, please turn off the projector before you leave.
+Columbia University Information Technology (CUIT) provides Columbia University students, faculty and staff with central computing and communications services including email, telephone service, Web publishing, computer labs and electronic classrooms, course management and student information applications, office and administrative applications, and management of the high-speed campus Ethernet and wireless networks. CUIT also manages an array of computer labs, terminal clusters, ColumbiaNet stations, multimedia classrooms, and provides a variety of technical support services. You may reach them email, phone, or by visiting the in-person CUIT Service Desk Support Center. Below is their contact information.
+Phone: 212-854-1919 (Mon-Thu: 8am-11 pm / Fri: 8am-7pm / Sat: 10am–6pm / Sun: 3-11pm)
+Email: AskCUIT@columbia.edu
+A technician will respond to your inquiry within one business day
+In person: 202 Philosophy Hall (Mon-Fri, 10am–6pm / (some issues require advance appt.)
+87)	SPS has an E-Rooms Team for support while class is in session:
+Monday to Friday, 8am to 8pm
+i.	Phone: 212-854-3633
+ii.	Email: erooms@columbia.edu
+Monday to Friday, 8-10pm (support is more limited)
+i.	Please call 212-854-3633 and leave a voicemail with your UNI, the room number and building you are in, a call back number, and a short description of the issue. A technician will get back to you as soon as they are available.
+
+ZENDESK
+Lecturers needing various forms of assistance may submit requests to the Instructional Support team via ZenDesk, the online helpdesk: 
+Visit ZenDesk (https://cusps.zendesk.com/hc/en-us)
+Log in
+Select “Submit a request”
+You may copy someone by entering their email address in the CC field
+Select or enter the relevant information in the different fields
+You may also upload documents, images, etc. 
+A confirmation email will automatically be sent to you. Then an Instructional Support representative will contact you as soon as possible to help. Common tickets include questions about classroom materials, proctoring, grading, classroom reservations, course evaluations, etc.; however, Instructional Support will consider a variety of requests, so please feel free to submit a ticket even if you're not sure your request falls under the Instructional Support umbrella. They will either fulfill your request or direct you to the proper party that can. 
+
+PRINTING
+Printing can be arranged as follows:
+Online: Submit a request through ZenDesk (https://cusps.zendesk.com/hc/en-us).
+In person: Use the copiers in Lewisohn 502 or 504
+
+GRADING GUIDELINES
+For fall and spring semesters, Lecturers may want to consider scheduling their final exams during the last class session, because this will provide more time to submit your proposed grades.
+Lecturers should provide students with the grades for each graded element (homework, cases, midterm exam, final exam, etc.) corresponding to the score they believe is deserved based on the learnings achieved.
+Lecturers must send proposed course grades to the Director of Administration (Jay Hirsch) who will communicate with ERM Leadership to review and provide feedback, prior to your submitting final grades into SSOL. We must maintain academic integrity, which includes ensuring that grades are consistent with other programs at SPS and CU. As soon as Lecturers have completed grading all graded elements (including the final exam), they should do the following, using the “Proposed Grades” file:
+a)	In “Student Detail” tab: Populate the yellow-highlighted items (Columns A, B, and C) by overwriting the sample data in this template, sorted from highest to lowest scores, and extend or shorten the rows of the spreadsheet, as needed, to accommodate your class size. Your data should be pre-sorted, because if your sort the receiving file it will corrupt the formulae. For courses with Pass/Fail grades, Lecturers should also be assigning, grading, recording, and reporting actual numerical scores/grades, and should report these along with the Pass/Fail grade (and should also be sharing this with students along the way); Lecturers should also assign a “Fail” grade when the total points for the course fall below 60%.
+b)	Go to “Distribution” tab, which provides guidance, showing the expected distribution and compares it to the distribution based on raw and curved scores, and once populated also to the distribution of your proposed grades. This is provided as guidance only and only works with the law of large numbers, not necessarily a single section and certainly not small sections.
+c)	Return to “Student Detail” tab: Populate Column G, based on your judgement as to what grade you feel is deserved.
+d)	File naming convention:
+“(First name) (Last Name) (Course) (Section, if you teach more than one section of the course).xlsx”.
+e)	Send to the Director of Administration (Jay Hirsch) who will communicate with ERM Leadership to review and provide guidance; once approved, you will enter grades into SSOL (see below) 
+f)	The Lecturer is the sole person that can ultimately decide the grade a student deserves based on the level of learnings achieved; ERM Leadership feedback is only general guidance to ensure consistency.
+New Lecturers must also do this mid-semester, after Session 6, using points to-date, and send this to the Director of Administration to make sure they are on track for a reasonable grade distribution.
+Approved grades should then be shared with students, individually, allowing time for them to review graded elements they have not yet seen (such as the final exam or a case). Remember that student reviews of major graded elements must be done in person and no copies/photos made.
+Grades should then be both entered and submitted in SSOL. The Director of Administration will email the deadlines each semester (the SPS email includes two deadlines – an earlier one for graduating students and a later one for others, but we always must use the earlier deadline for all students). 
+The grade of Incomplete should only be assigned if the following conditions are met:
+a)	The student must have completed the majority of course work
+b)	You must obtain approval from Student Affairs before assigning this grade
+c)	You should let the student's Advisor know early in semester if the student is not attending class
+More information on Grading Policies can be found here: https://sps.columbia.edu/students/student-advising/academic-policies-procedures/grades  
+
+STUDENT SATISFACTION
+Lecturer evaluation is based on formal student evaluations (performed twice; early on and also near semester-end), ad hoc in-classroom observations, and informal feedback from periodic interviews with students. To help you achieve a high level of student satisfaction, the following are required:
+Customer Service: Lecturers must maintain an attitude of humility, respect, and customer service. While we do serve the community, employers, the university, etc., our primary customer is the student, and keeping this in perspective helps us maintain the proper attitude and approach to conducting our class and addressing any issues that may arise.
+Timely Grading Feedback: Lecturers are responsible for providing students with timely grading of their graded elements.
+Disclosure: Lecturers must provide students with a running detailed list of all the students’ scores, throughout the semester, which can be done via Canvas (this must be done without revealing identities). This helps ensure that there are no surprises, since students can see where they are ranking versus other students – by individual graded element as well as the total cumulative points – and adjust their efforts as needed. In addition, students appreciate the transparency. Finally, this gives an opportunity for students to correct any entry errors or address any grade disputes early on.
+Mid-Course Evaluation: SPS conducts a year-end course evaluation. Lecturers should conduct their own informal student evaluation (anonymously) to get student feedback in a time frame that allows making any indicated course corrections. Provide students with a summary of the results, lessons learned, and any adjustments you plan to make to the remaining course sessions (or future versions of the course) as a result. The mid‐term evaluation is an opportunity to improve the course experience for students in the last half of the course, and the students appreciate being heard. Take the last 10 minutes of one of your classes to allow students to complete the mid-semester Survey Monkey survey, using the unique link that will be provided to you by the admin team.  This feedback is for Lecturers; there is no need to share this with the Program.
+98)	All Lecturers are encouraged to reach out to Zach Kornhauser (zk2124@columbia.edu), Director of Faculty Assessment and Development, who is available for a consultation and/or a confidential in-class observation. Zach has helped many of our faculty enhance their effectiveness in the classroom.
+
+CONTACT INFORMATION
+You can find the contact information for CU students, staff, and faculty by typing their name into the search box at the top right of the CU home page: http://www.columbia.edu/
+
+INSTRUCTOR MARKETING
+Lecturers are encouraged to send their significant thought leadership – such as recent or upcoming published articles, research, industry presentations, etc. – directly to the Director of Administration, and appropriate submissions will be forwarded by the Administration Team to the SPS Marketing team, who may market these items internally at CU and/or externally, such as through the SPS website or a LinkedIn posting by the SPS Dean.
+
+PROGRAM AND COURSE MARKETING
+Lecturers are encouraged to advertise the ERM program to your network. Below is suggested text you can share via the “share an update” tool on LinkedIn.
+I serve on the faculty for Columbia University’s ERM Program which offers both an MS degree and a Certification in ERM. Visit http://sps.columbia.edu/enterprise-risk-management/master-of-science-in-enterprise-risk-management/curriculum or send me your email for more info.
+If you receive questions from prospective students, please refer them to one of the following:
+General information: ERM Program website: https://sps.columbia.edu/academics/masters/enterprise-risk-management/full-time-master-science/curriculum-courses
+Admission Information:
+Admission info on the website:
+https://sps.columbia.edu/academics/masters/enterprise-risk-management/full-time-master-science/admissions
+Send email to: inquire@sps.columbia.edu
+Send email to the Student Advisor
+Info Sessions: The Program Director runs periodic (free) one-hour webinars providing an overview of the program and addressing many questions prospective students tend to ask:
+https://sps.columbia.edu/events/online-information-session-ms-enterprise-risk-management-4
+ERM Preview Course: There is a (free) teaser course available online that covers a topic from the foundational course that is engaging and provides insights into how ERM can address some of the most challenging business risks:
+https://sps.columbia.edu/academics/masters/enterprise-risk-management/preview-course
+ERM Fact Sheet:
+https://sps.columbia.edu/sites/default/files/2019-11/Columbia_Enterprise_Risk_Management_Flyer.pdf
+ 
+
+NOTES	Classes with final exams: Lecturers must administer the final exam during the Session 12 date and schedule a make-up session sometime during the semester, because all classes are required to have 12 instructional sessions. The make-up session must be remote and all students must agree to the date/time well in advance.
+Classes on Monday or Tuesday: Lecturers must schedule make-up sessions for the sessions missed due to holiday(s). The make-up session must be remote and all students must agree to the date/time well in advance. Note: Please schedule make-up sessions at the start of the semester, because some classes may have as many as 3 make-up sessions
+
