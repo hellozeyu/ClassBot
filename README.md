@@ -1,12 +1,4 @@
----
-title: Class Bot
-emoji: 🚀
-colorFrom: blue
-colorTo: pink
-sdk: streamlit
-sdk_version: 1.27.0
-app_file: app.py
-pinned: false
----
+## Class Bot
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+- An example RAG based chatbot that allows you to chat with pdf files and manage the documents on AWS s3.
+- Built with [Langchain](https://github.com/langchain-ai/langchain), [Streamlit](https://github.com/streamlit/streamlit) and [Qdrant](https://github.com/qdrant/qdrant). Check out the demo [here](https://hellozeyu-class-bot.hf.space/).
